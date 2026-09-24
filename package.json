@@ -1,5 +1,5 @@
 {
-  "name": "@onekeyfe/react-native-ble-plx",
+  "name": "@unionkeyhq/react-native-ble-plx",
   "version": "3.0.1",
   "description": "React Native Bluetooth Low Energy library",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OneKeyHQ/react-native-ble-plx.git"
+    "url": "git+https://github.com/UnionKeyHQ/react-native-ble-plx.git"
   },
   "publishConfig": {
     "access": "public"
@@ -54,7 +54,7 @@
   "author": "Polidea",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/OneKeyHQ/react-native-ble-plx/issues"
+    "url": "https://github.com/UnionKeyHQ/react-native-ble-plx/issues"
   },
-  "homepage": "https://github.com/OneKeyHQ/react-native-ble-plx#readme"
+  "homepage": "https://github.com/UnionKeyHQ/react-native-ble-plx#readme"
 }
